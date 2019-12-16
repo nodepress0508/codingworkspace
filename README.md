@@ -1,2 +1,2 @@
 # codingworkspace
-this is a place with my self practicing code or personal project 
+this is a place for my self to do code practicing or personal project 
